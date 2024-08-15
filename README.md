@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **C Programming**
 
-- 📫 How to reach me **aarysinhdodiya05@gmain.com**
+- 📫 How to reach me **aarysinhdodiya05@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
